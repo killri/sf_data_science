@@ -1,8 +1,8 @@
 # Project 0. Guess the number game
 
 ## Table of contents
-* [Project discription](https://github.com/killri/sf_data_science/blob/main/project%200/README.md)
-* [What case are we solving?](_______)
+* [Project discription](https://github.com/killri/sf_data_science/blob/main/project%200/README.md#Project-discription)
+* [What case are we solving?](https://github.com/killri/sf_data_science/blob/main/project%200/README.md#What-case-are-we-solving?)
 * [Brief data information](________)
 * [Project work steps](________)
 * [Result](_______)
