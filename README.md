@@ -1,2 +1,2 @@
-# sf_data_science
+# My DataScience projects
 SF homework
