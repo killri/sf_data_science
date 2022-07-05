@@ -32,7 +32,7 @@ No specific data. Just the case.
 
 ### Project work steps
 1. [Making a game where a human tries to guess the number genetared bu computer](________)
-2.  [Random algirithm implementation and it's efficiency estimation](________)
+2.  [Random algorithm implementation and it's efficiency estimation](________)
 3. [----](________)
 
 ### Result
