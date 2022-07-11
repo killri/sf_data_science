@@ -47,7 +47,7 @@ print(np.float16(4.126))
 print('\n','All real types with no repetitions')
 print( *sorted( map(str, set(np.sctypeDict.values()) ) ) , sep = '\n')
 
-print(2**128 - 1)
 
-print(np.iinfo(np.int64))
 print(np.uint8(-456))
+print(np.iinfo(np.int64))
+print(-2**15 )
