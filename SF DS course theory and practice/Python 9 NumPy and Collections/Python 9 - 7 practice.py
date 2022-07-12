@@ -7,7 +7,7 @@ def get_chess(a):
     arr[1::2,::2] = 1
     return arr
 
-print(get_chess(10))
+print(get_chess(5))
 # эталон совпадает
 #10.7
 def shuffle_seed(array):
