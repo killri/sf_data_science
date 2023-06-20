@@ -4,6 +4,7 @@ osrm_data_train.csv
 train.csv
 Project5_osrm_data_test.csv
 Project5_test_data.csv
+customer_segmentation_project.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
